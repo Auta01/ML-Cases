@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with great for more projects
 - 📫 How to reach out to me email: autaa638@gmail.com
 - 😄 Pronouns🌍
-- ⚡ Fun fact:It might br hard but it's not impossible
+- ⚡ Fun fact:It might be hard but it's not impossible
 
 - This is my first journey on machine learning trying to build predictive model.
 - 
